@@ -7,7 +7,7 @@ If you would like to deploy your version of the raffle, on either Localhost or R
 
 Localhost
 ```bash
-hh deploy node
+hh node
 ```
 Rinkeby: 
 ```bash
